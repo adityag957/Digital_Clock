@@ -24,7 +24,7 @@ A modern and beautifully crafted **Digital Clock Web Application** built using t
 
 <div align="center">
 
-<img width="90%" src="Screenshot 2026-05-08 212348.png"/>
+<img width="90%" src="Screenshot.png"/>
 
 </div>
 
